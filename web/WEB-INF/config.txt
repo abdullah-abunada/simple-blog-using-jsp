@@ -1,0 +1,10 @@
+// MySQL hostname
+host=sandbox.dev
+// MySQL port
+port=9306
+// MySQL user
+user=root
+// MySQL password
+password=root
+// MySQL db-name
+db=blog
